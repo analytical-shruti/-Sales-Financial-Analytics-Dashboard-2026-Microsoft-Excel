@@ -64,7 +64,8 @@ All figures are in USD, for the year 2026 (Jan–Dec).
 ![Dashboard Preview](<img width="1445" height="769" alt="excel shruti" src="https://github.com/user-attachments/assets/33a7cb05-3d57-4f6e-af2f-15ed97f2fc67" />
 )
 
-*(Add your dashboard screenshot here as `dashboard_preview.png`.)*
+<img width="1445" height="769" alt="excel shruti" src="https://github.com/user-attachments/assets/9d74ae4b-85ca-4d12-9bb6-e6184ea552be" />
+
 
 ## 🚀 How to Use
 
